@@ -1,0 +1,15 @@
+body {
+    background-color:rgb(174, 255, 127)
+  }
+   
+  H3 {
+    color: blue;
+    font-size: large;
+    text-decoration: solid;
+    box-sizing: border-box;
+  }
+   
+  p {
+    color: green;
+    font-style: italic;
+  }
